@@ -1,0 +1,5 @@
+{
+  "name": "AEO & Brand AI Agent",
+  "description": "A two-stage multi-agent system that generates AEO-optimized HTML content and then refines it with brand strategy.",
+  "requestFramePermissions": []
+}
